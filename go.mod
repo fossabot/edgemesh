@@ -12,6 +12,7 @@ require (
 	github.com/kubeedge/beehive v0.0.0-20201125122335-cd19bca6e436
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/spf13/cobra v1.0.0
+	github.com/spf13/pflag v1.0.5
 	github.com/vishvananda/netlink v1.1.0
 	istio.io/api v0.0.0-20210131044048-bfeb10697307
 	istio.io/client-go v0.0.0-20210218000043-b598dd019200
